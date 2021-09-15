@@ -1,8 +1,9 @@
 # Overview
 
-Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.
+This software is meant to demonstrate how python can print text, in this case "Hello World", on the command line.
 
 Provide a description of your software
+This software prints "Hello World" on the command line upon execution.
 
 Describe your purpose for creating this software.
 
