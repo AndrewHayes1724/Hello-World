@@ -2,23 +2,26 @@
 
 This software is meant to demonstrate how python can print text, in this case "Hello World", on the command line.
 
-Provide a description of your software
 This software prints "Hello World" on the command line upon execution.
 
-Describe your purpose for creating this software.
+The purpose of this software was for me to demonstrate what I learned while setting up my environment in VS Code, as well as the basics of what we can do within this tool.
 
-Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.
 
+Here is a link to a video of me demonstrating the code as well as an overview of everything going on within it.
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-Describe the tools that you used to develop the software
+* Visual Studio Code 
+* Python 3.9.7 64-bit
+* Git / Github as the version control system
+I
 
-Describe the programming language that you used
+The Programming language that I used was Python 3.9.7 as you can see above. Python is an interpreted object oriented language. It is simple to use and is used to create both small and large projects. 
 
 # Useful Websites
 
 Make a list of websites that you found helpful in this project
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [W3 Schools Python Tutorial](https://www.w3schools.com/python/)
+* [Geeks for Geeks Python Overview](https://www.geeksforgeeks.org/python-programming-language/)
+* [Youtube](https://www.youtube.com/)
