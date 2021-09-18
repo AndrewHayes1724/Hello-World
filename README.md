@@ -8,7 +8,7 @@ The purpose of this software was for me to demonstrate what I learned while sett
 
 
 Here is a link to a video of me demonstrating the code as well as an overview of everything going on within it.
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/EQBKF1okjxs)
 
 # Development Environment
 
