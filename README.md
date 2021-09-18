@@ -21,7 +21,6 @@ The Programming language that I used was Python 3.9.7 as you can see above. Pyth
 
 # Useful Websites
 
-Make a list of websites that you found helpful in this project
 * [W3 Schools Python Tutorial](https://www.w3schools.com/python/)
 * [Geeks for Geeks Python Overview](https://www.geeksforgeeks.org/python-programming-language/)
 * [Youtube](https://www.youtube.com/)
